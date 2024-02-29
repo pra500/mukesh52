@@ -24,7 +24,7 @@ public class Stringprac {
 	for()
 	
 	
-		
+		System.out.println("nn");
 		
 		
 	}
